@@ -6,7 +6,7 @@
 
 
 ````
-bash <(curl -Ls https://raw.githubusercontent.com/HamedAp/Nethogs-Json/main/install.sh --ipv4)
+bash <(curl -Ls https://raw.githubusercontent.com/SamahaAbbas/Nethogs-Json/main/install.sh --ipv4)
 ````
 
 
